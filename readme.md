@@ -149,4 +149,4 @@ I'm thrilled to announce the launch of my daily Python tutorial series! 🎉📚
 
 ## Feedback
 
-If you have any feedback, please reach out at subhamsv96@gmail.com
+If you have any feedback, please reach out at https://wa.link/8x5poq
