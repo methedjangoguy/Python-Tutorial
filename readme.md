@@ -147,6 +147,6 @@ I'm thrilled to announce the launch of my daily Python tutorial series! 🎉📚
 - Beginner's Python YouTube API Tutorial 4: Using OAuth to Access User Accounts
 - Beginner's Python Tutorial 63: Simulate the Powerball Lottery Using Python
 
-## Feedback
+## Queries
 
-If you have any feedback, please reach out at https://wa.link/8x5poq
+If you have any queries, please reach out at https://wa.link/8x5poq
