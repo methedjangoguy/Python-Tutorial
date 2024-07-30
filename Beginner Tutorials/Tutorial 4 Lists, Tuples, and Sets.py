@@ -124,6 +124,27 @@ print("Joined string:", course_str)
 new_course_list = course_str.split(", ")
 print("New course list:", new_course_list)
 
+# 19. List unpacking
+a, b, c, d, e, f, g = courses
+print("Unpacked list:", a, b, c, d, e, f, g)
+
+# 20. List Interpolation (f-strings): You can use f-strings to format lists within strings.
+courses = ["History", "Math", "Physics", "CompSci"]
+formatted_courses = f"My courses are: {', '.join(courses)}"
+print(formatted_courses)  # Output: My courses are: History, Math, Physics, CompSci
+
+# 21. List Comprehension with Conditions
+# You can add conditions in list comprehensions to filter items.
+even_nums = [num for num in nums if num % 2 == 0]
+print("Even numbers:", even_nums)  # Output: [2, 4]
+
+#22. Nested Lists
+# Lists can contain other lists.
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+print("Matrix:", matrix)
+print("First row:", matrix[0])  # Output: [1, 2, 3]
+print("Element at [1][2]:", matrix[1][2])  # Output: 6
+
 # Python Tuples Tutorial
 
 # 1. Introduction to Tuples
@@ -152,6 +173,22 @@ print("Tuple 2:", tuple_2)
 # 2. Accessing Tuple Items
 # You can access the items in a tuple using their index. Indexing starts at 0.
 print("First item in tuple:", tuple_1[0])  # Output: History
+
+# 3. Tuple Packing and Unpacking
+coordinates = (10, 20)
+x, y = coordinates
+print("X:", x)  # Output: 10
+print("Y:", y)  # Output: 20
+
+# 4. Tuple Operations
+# Tuples support some operations similar to lists, like concatenation and repetition.
+tuple1 = (1, 2, 3)
+tuple2 = (4, 5, 6)
+combined_tuple = tuple1 + tuple2
+print("Combined tuple:", combined_tuple)  # Output: (1, 2, 3, 4, 5, 6)
+
+repeated_tuple = tuple1 * 2
+print("Repeated tuple:", repeated_tuple)  # Output: (1, 2, 3, 1, 2, 3)
 
 # Python Sets Tutorial
 
@@ -190,5 +227,24 @@ print("Empty Tuple:", empty_tuple)
 # Note: empty_set = {} creates an empty dictionary, not a set
 empty_set = set()
 print("Empty Set:", empty_set)
+
+# Additional Concepts for Sets
+# 1. Set Comprehension
+# Similar to list comprehensions, you can use set comprehensions.
+squares = {x**2 for x in range(6)}
+print("Squares set:", squares)  # Output: {0, 1, 4, 9, 16, 25}
+
+# 2. Set Methods
+# Sets have additional methods like add(), discard(), and clear().
+
+cs_courses = {"History", "Math", "Physics", "CompSci"}
+cs_courses.add("Biology")
+print("After adding Biology:", cs_courses)  # Output: {'Biology', 'CompSci', 'Math', 'Physics', 'History'}
+
+cs_courses.discard("Math")
+print("After discarding Math:", cs_courses)  # Output: {'Biology', 'CompSci', 'Physics', 'History'}
+
+cs_courses.clear()
+print("After clearing the set:", cs_courses)  # Output: set()
 
 # Congratulations! You've learned the basics of Python lists, tuples, and sets.
