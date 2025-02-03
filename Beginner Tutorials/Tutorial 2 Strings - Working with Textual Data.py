@@ -14,7 +14,7 @@ print(len(message))  # prints 11
 # 4. String Indexing
 # Accessing individual characters using their index
 print(message[0])  # prints H
-
+ 
 # 5. String Slicing
 # Accessing a substring using slicing
 print(message[0:5])  # prints Hello
