@@ -37,7 +37,6 @@ Welcome to the Python Tutorial Series. Python is a versatile and powerful progra
 - Beginner's Python Tutorial 10: Error and Exception Handling
 - Beginner's Python Tutorial 11: Modules and Packages
 - Beginner's Python Tutorial 12: Virtual Environments and Package Management
-- Beginner's Python Tutorial 13: Introduction to Object-Oriented Programming
 
 [Back to top](#contents)
 
@@ -103,6 +102,7 @@ Welcome to the Python Tutorial Series. Python is a versatile and powerful progra
 
 ### Python OOP Tutorials
 
+- Python OOP Tutorial 0: Introduction to Object-Oriented Programming
 - Python OOP Tutorial 1: Classes and Instances
 - Python OOP Tutorial 2: Class Attributes and Methods
 - Python OOP Tutorial 3: Inheritance - Extending Classes
