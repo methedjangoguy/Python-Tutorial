@@ -42,61 +42,61 @@ Welcome to the Python Tutorial Series. Python is a versatile and powerful progra
 
 ### Intermediate Tutorials
 
-- Intermediate's Python Tutorial 14: Testing Your Code with pytest
-- Intermediate's Python Tutorial 15: Debugging Techniques
-- Intermediate's Python Tutorial 16: Decorators - Enhancing Functions
-- Intermediate's Python Tutorial 17: Understanding Iterators and Generators
-- Intermediate's Python Tutorial 18: Working with Time and Date
-- Intermediate's Python Tutorial 19: Advanced List Comprehensions
-- Intermediate's Python Tutorial 20: Lambda Functions
-- Intermediate's Python Tutorial 21: Understanding Map, Filter, and Reduce
-- Intermediate's Python Tutorial 22: Introduction to GUI Programming with Tkinter
-- Intermediate's Python Tutorial 23: Working with Databases using SQLite
-- Intermediate's Python Tutorial 24: CSV Module - How to Read, Parse, and Write CSV Files
-- Intermediate's Python Tutorial 25: Regular Expressions
-- Intermediate's Python Tutorial 26: Real World Example - Parsing Names From a CSV to an HTML List
-- Intermediate's Python Tutorial 27: Introduction to Web Scraping with BeautifulSoup
-- Intermediate's Python Tutorial 28: Working with APIs in Python
-- Intermediate's Python Tutorial 29: Introduction to Flask - Creating a Simple Web Server
-- Intermediate's Python Tutorial 30: Flask Templates - Dynamic Content in Web Pages
-- Intermediate's Python Tutorial 31: Web Forms with Flask - User Input and Form Validation
-- Intermediate's Python Tutorial 32: Introduction to Django - Building a Simple Web Application
-- Intermediate's Python Tutorial 33: Django Models and Admin Interface
-- Intermediate's Python Tutorial 34: Django Templates - Adding Dynamic Data to Your Pages
-- Intermediate's Python Tutorial 35: Django Forms - Handling User Input
-- Intermediate's Python Tutorial 36: REST APIs with Flask - Creating an API Service
-- Intermediate's Python Tutorial 37: Automated Testing of Web Applications with Selenium
-- Intermediate's Python Tutorial 38: Working with JSON Data using the json Module
+- Intermediate's Python Tutorial 13: Testing Your Code with pytest
+- Intermediate's Python Tutorial 14: Debugging Techniques
+- Intermediate's Python Tutorial 15: Decorators - Enhancing Functions
+- Intermediate's Python Tutorial 16: Understanding Iterators and Generators
+- Intermediate's Python Tutorial 17: Working with Time and Date
+- Intermediate's Python Tutorial 18: Advanced List Comprehensions
+- Intermediate's Python Tutorial 19: Lambda Functions
+- Intermediate's Python Tutorial 20: Understanding Map, Filter, and Reduce
+- Intermediate's Python Tutorial 21: Introduction to GUI Programming with Tkinter
+- Intermediate's Python Tutorial 22: Working with Databases using SQLite
+- Intermediate's Python Tutorial 23: CSV Module - How to Read, Parse, and Write CSV Files
+- Intermediate's Python Tutorial 24: Regular Expressions
+- Intermediate's Python Tutorial 25: Real World Example - Parsing Names From a CSV to an HTML List
+- Intermediate's Python Tutorial 26: Introduction to Web Scraping with BeautifulSoup
+- Intermediate's Python Tutorial 27: Working with APIs in Python
+- Intermediate's Python Tutorial 28: Introduction to Flask - Creating a Simple Web Server
+- Intermediate's Python Tutorial 29: Flask Templates - Dynamic Content in Web Pages
+- Intermediate's Python Tutorial 30: Web Forms with Flask - User Input and Form Validation
+- Intermediate's Python Tutorial 31: Introduction to Django - Building a Simple Web Application
+- Intermediate's Python Tutorial 32: Django Models and Admin Interface
+- Intermediate's Python Tutorial 33: Django Templates - Adding Dynamic Data to Your Pages
+- Intermediate's Python Tutorial 34: Django Forms - Handling User Input
+- Intermediate's Python Tutorial 35: REST APIs with Flask - Creating an API Service
+- Intermediate's Python Tutorial 36: Automated Testing of Web Applications with Selenium
+- Intermediate's Python Tutorial 37: Working with JSON Data using the json Module
 
 [Back to top](#contents)
 
 ### Advanced Tutorials
 
-- Advanced's Python Tutorial 39: Asynchronous Programming with asyncio
-- Advanced's Python Tutorial 40: Multithreading and Multiprocessing in Python
-- Advanced's Python Tutorial 41: Advanced Web Scraping - Handling Ajax and JavaScript Sites
-- Advanced's Python Tutorial 42: Using Docker with Python Applications
-- Advanced's Python Tutorial 43: Continuous Integration and Deployment with GitHub Actions
-- Advanced's Python Tutorial 44: Introduction to Machine Learning with Python
-- Advanced's Python Tutorial 45: Building a Simple Machine Learning Model
-- Advanced's Python Tutorial 46: Data Visualization with Matplotlib and Seaborn
-- Advanced's Python Tutorial 47: Advanced Pandas Techniques and Features
-- Advanced's Python Tutorial 48: Natural Language Processing with NLTK
-- Advanced's Python Tutorial 49: Introduction to TensorFlow and Deep Learning
-- Advanced's Python Tutorial 50: Building Your First Neural Network
-- Advanced's Python Tutorial 51: Generative Adversarial Networks (GANs) - An Overview
-- Advanced's Python Tutorial 52: Reinforcement Learning with Q-Learning
-- Advanced's Python Tutorial 53: Building a Chatbot with Python
-- Advanced's Python Tutorial 54: Cryptography in Python - Encrypting and Decrypting Data
-- Advanced's Python Tutorial 55: Network Programming with Python - Creating a Chat Application
-- Advanced's Python Tutorial 56: Building a Blockchain in Python
-- Advanced's Python Tutorial 57: Microservices with Python - An Introduction
-- Advanced's Python Tutorial 58: Deploying Python Applications with Docker
-- Advanced's Python Tutorial 59: Introduction to Cloud Computing with Python
-- Advanced's Python Tutorial 60: Using Python with AWS Services
-- Advanced's Python Tutorial 61: Scaling Python Applications with Kubernetes
-- Advanced's Python Tutorial 62: Performance Optimization Techniques in Python
-- Advanced's Python Tutorial 63: Simulate the Powerball Lottery Using Python
+- Advanced's Python Tutorial 38: Asynchronous Programming with asyncio
+- Advanced's Python Tutorial 39: Multithreading and Multiprocessing in Python
+- Advanced's Python Tutorial 40: Advanced Web Scraping - Handling Ajax and JavaScript Sites
+- Advanced's Python Tutorial 41: Using Docker with Python Applications
+- Advanced's Python Tutorial 42: Continuous Integration and Deployment with GitHub Actions
+- Advanced's Python Tutorial 43: Introduction to Machine Learning with Python
+- Advanced's Python Tutorial 44: Building a Simple Machine Learning Model
+- Advanced's Python Tutorial 45: Data Visualization with Matplotlib and Seaborn
+- Advanced's Python Tutorial 46: Advanced Pandas Techniques and Features
+- Advanced's Python Tutorial 47: Natural Language Processing with NLTK
+- Advanced's Python Tutorial 48: Introduction to TensorFlow and Deep Learning
+- Advanced's Python Tutorial 49: Building Your First Neural Network
+- Advanced's Python Tutorial 50: Generative Adversarial Networks (GANs) - An Overview
+- Advanced's Python Tutorial 51: Reinforcement Learning with Q-Learning
+- Advanced's Python Tutorial 52: Building a Chatbot with Python
+- Advanced's Python Tutorial 53: Cryptography in Python - Encrypting and Decrypting Data
+- Advanced's Python Tutorial 54: Network Programming with Python - Creating a Chat Application
+- Advanced's Python Tutorial 55: Building a Blockchain in Python
+- Advanced's Python Tutorial 56: Microservices with Python - An Introduction
+- Advanced's Python Tutorial 57: Deploying Python Applications with Docker
+- Advanced's Python Tutorial 58: Introduction to Cloud Computing with Python
+- Advanced's Python Tutorial 59: Using Python with AWS Services
+- Advanced's Python Tutorial 60: Scaling Python Applications with Kubernetes
+- Advanced's Python Tutorial 61: Performance Optimization Techniques in Python
+- Advanced's Python Tutorial 62: Simulate the Powerball Lottery Using Python
 
 [Back to top](#contents)
 
