@@ -11,7 +11,7 @@ Welcome to the Python Tutorial Series! 🌟 This guide is designed to take you t
   - [Advanced Tutorials](#advanced-tutorials)
   - [Python OOP Tutorials](#python-oop-tutorials)
   - [Web Development with Flask and Django](#web-development-with-flask-and-django)
-  - [Data Science and Analysis](#data-science-and-analysis)
+  - [Interview Preparation](#interview-preparation)
   - [Miscellaneous Tutorials](#miscellaneous-tutorials)
 - [Queries](#queries)
 
@@ -25,167 +25,199 @@ Welcome to the Python Tutorial Series. Python is a versatile and powerful progra
 
 ### Beginner Tutorials
 
-- Beginner's Python Tutorial 1: Installation and Setup Guide for Mac and Windows
-- Beginner's Python Tutorial 2: Strings - Working with Textual Data
-- Beginner's Python Tutorial 3: Integers and Floats - Working with Numeric Data
-- Beginner's Python Tutorial 4: Lists, Tuples, and Sets
-- Beginner's Python Tutorial 5: Dictionaries - Working with Key-Value Pairs
-- Beginner's Python Tutorial 6: Conditional Statements
-- Beginner's Python Tutorial 7: Loops and Iterations
-- Beginner's Python Tutorial 8: Functions - Creating and Using
-- Beginner's Python Tutorial 9: File Handling Basics
-- Beginner's Python Tutorial 10: Error and Exception Handling
-- Beginner's Python Tutorial 11: Modules and Packages
-- Beginner's Python Tutorial 12: Virtual Environments and Package Management
+- Python Tutorial for Beginners 1: Install and Setup for Mac and Windows
+- Python Tutorial for Beginners 2: Strings - Working with Textual Data
+- Python Tutorial for Beginners 3: Integers and Floats - Working with Numeric Data
+- Python Tutorial for Beginners 4: Lists, Tuples, and Sets
+- Python Tutorial for Beginners 5: Dictionaries - Working with Key-Value Pairs
+- Python Tutorial for Beginners 6: Conditionals and Booleans - If, Else, and Elif Statements
+- Python Tutorial for Beginners 7: Loops and Iterations - For/While Loops
+- Python Tutorial for Beginners 8: Functions
+- Python Tutorial for Beginners 9: Import Modules and Exploring The Standard Library
+- Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting
+- Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements
+- Python Tutorial: Slicing Lists and Strings
+- Python Tutorial: Comprehensions - How they work and why you should be using them
+- Python Tutorial: Sorting Lists, Tuples, and Objects
+- Python Tutorial: String Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates
+- Python Tutorial: File Objects - Reading and Writing to Files
+- Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files
+- Python Tutorial: Real World Example - Parsing Names From a CSV to an HTML List
+- Python Tutorial: Using Try/Except Blocks for Error Handling
+- Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)
+- Python Quick Tip: The Difference Between "==" and "is" (Equality vs Identity)
+- Python Tutorial: Sets - Set Methods and Operations to Solve Common Problems
+- Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?
+- Python Coding Problem: Creating Your Own Iterators
+- Python Tutorial: Clarifying the Issues with Mutable Default Arguments
+- Python Tutorial: Pathlib - The Modern Way to Handle File Paths
+- 5 Common Python Mistakes and How to Fix Them
 
 [Back to top](#contents)
 
 ### Intermediate Tutorials
 
-- Intermediate's Python Tutorial 13: Testing Your Code with pytest
-- Intermediate's Python Tutorial 14: Debugging Techniques
-- Intermediate's Python Tutorial 15: Decorators - Enhancing Functions
-- Intermediate's Python Tutorial 16: Understanding Iterators and Generators
-- Intermediate's Python Tutorial 17: Working with Time and Date
-- Intermediate's Python Tutorial 18: Advanced List Comprehensions
-- Intermediate's Python Tutorial 19: Lambda Functions
-- Intermediate's Python Tutorial 20: Understanding Map, Filter, and Reduce
-- Intermediate's Python Tutorial 21: Introduction to GUI Programming with Tkinter
-- Intermediate's Python Tutorial 22: Working with Databases using SQLite
-- Intermediate's Python Tutorial 23: CSV Module - How to Read, Parse, and Write CSV Files
-- Intermediate's Python Tutorial 24: Regular Expressions
-- Intermediate's Python Tutorial 25: Real World Example - Parsing Names From a CSV to an HTML List
-- Intermediate's Python Tutorial 26: Introduction to Web Scraping with BeautifulSoup
-- Intermediate's Python Tutorial 27: Working with APIs in Python
-- Intermediate's Python Tutorial 28: Introduction to Flask - Creating a Simple Web Server
-- Intermediate's Python Tutorial 29: Flask Templates - Dynamic Content in Web Pages
-- Intermediate's Python Tutorial 30: Web Forms with Flask - User Input and Form Validation
-- Intermediate's Python Tutorial 31: Introduction to Django - Building a Simple Web Application
-- Intermediate's Python Tutorial 32: Django Models and Admin Interface
-- Intermediate's Python Tutorial 33: Django Templates - Adding Dynamic Data to Your Pages
-- Intermediate's Python Tutorial 34: Django Forms - Handling User Input
-- Intermediate's Python Tutorial 35: REST APIs with Flask - Creating an API Service
-- Intermediate's Python Tutorial 36: Automated Testing of Web Applications with Selenium
-- Intermediate's Python Tutorial 37: Working with JSON Data using the json Module
+- Setting up a Python Development Environment in Sublime Text
+- Setting up a Python Development Environment in Atom
+- Setting up a Python Development Environment in Eclipse
+- Python Tutorial Virtual Environments and Package Management
+- Python Tutorial: Anaconda - Installation and Using Conda
+- Python Tutorial: How I Manage Multiple Projects, Virtual Environments, and Environment Variables
+- Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough
+- Python Tutorial: OS Module - Use Underlying Operating System Functionality
+- Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, and Timezones
+- Python Tutorial: Automate Parsing and Renaming of Multiple Files
+- Python Tutorial: Generate Random Numbers and Data Using the random Module
+- Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)
+- Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Windows)
+- Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Mac & Linux)
+- Python Tutorial: Generators - How to use them and the benefits you receive
+- Python Tutorial: Namedtuple - When and why should you use namedtuples?
+- Python Tutorial: Web Scraping with BeautifulSoup and Requests
+- Python Tutorial: Working with JSON Data using the json Module
+- Python Tutorial: Calculate Number of Days, Weeks, or Months to Reach Specific Goals
+- Python Tutorial: Context Managers - Efficiently Managing Resources
+- Python Tutorial: str() vs repr()
+- Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries
+- Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting
+- Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters
+- Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux)
+- Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows)
+- Python Tutorial: if __name__ == '__main__'
+- Python Tutorial: Unit Testing Your Code with the unittest Module
+- Python Tutorial: Pipenv - Easily Manage Packages and Virtual Environments
+- Python Tutorial: Else Clauses on Loops
+- Python Tutorial: Image Manipulation with Pillow
+- Python Tutorial: Custom Sublime Text Build Systems
+- Python Tutorial: Itertools Module - Iterator Functions for Efficient Looping
+- Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More
+- Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers
+- Python Tutorial: Web Scraping with Requests-HTML
+- How to Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and More
+- 10 Python Tips and Tricks For Writing Better Code
+- Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module
+- Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module
+- How to Write Python Scripts to Analyze JSON APIs and Sort Results
+- Python Tutorial: Calling External Commands Using the Subprocess Module
+- Python Threading Tutorial: Run Code Concurrently Using the Threading Module
+- Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module
+- Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey
+- Python Tutorial: Zip Files - Creating and Extracting Zip Archives
+- Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data
+- Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns
+- Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes
+- Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns
+- Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames
+- Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames
+- Python Pandas Tutorial (Part 7): Sorting Data
+- Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data
+- Python Pandas Tutorial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values
+- Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data
+- Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc
+- Python Tutorial: Real World Example - Using Patreon API and Pillow to Automate Image Creation
+- Python YouTube API Tutorial: Getting Started - Creating an API Key and Querying the API
+- Python YouTube API Tutorial: Calculating the Duration of a Playlist
+- Python YouTube API Tutorial: Sort a Playlist by Most Popular Videos
+- Python YouTube API Tutorial: Using OAuth to Access User Accounts
+- Python Tutorial: Simulate the Powerball Lottery Using Python
+- How to Use ChatGPT as a Powerful Tool for Programming
+- Python Tutorial: Securely Manage Passwords and API Keys with DotEnv
+- Automating My Bill Payments with Python and Selenium
+- Python Tkinter Tutorial (Part 1): Getting Started, Elements, Layouts, and Events
+- Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview
+- Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview
+- Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots
+- Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs
+- Matplotlib Tutorial (Part 3): Pie Charts
+- Matplotlib Tutorial (Part 4): Stack Plots
+- Matplotlib Tutorial (Part 5): Filling Area on Line Plots
+- Matplotlib Tutorial (Part 6): Histograms
+- Matplotlib Tutorial (Part 7): Scatter Plots
+- Matplotlib Tutorial (Part 8): Plotting Time Series Data
+- Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time
+- Matplotlib Tutorial (Part 10): Subplots
 
 [Back to top](#contents)
 
 ### Advanced Tutorials
 
-- Advanced's Python Tutorial 38: Asynchronous Programming with asyncio
-- Advanced's Python Tutorial 39: Multithreading and Multiprocessing in Python
-- Advanced's Python Tutorial 40: Advanced Web Scraping - Handling Ajax and JavaScript Sites
-- Advanced's Python Tutorial 41: Using Docker with Python Applications
-- Advanced's Python Tutorial 42: Continuous Integration and Deployment with GitHub Actions
-- Advanced's Python Tutorial 43: Introduction to Machine Learning with Python
-- Advanced's Python Tutorial 44: Building a Simple Machine Learning Model
-- Advanced's Python Tutorial 45: Data Visualization with Matplotlib and Seaborn
-- Advanced's Python Tutorial 46: Advanced Pandas Techniques and Features
-- Advanced's Python Tutorial 47: Natural Language Processing with NLTK
-- Advanced's Python Tutorial 48: Introduction to TensorFlow and Deep Learning
-- Advanced's Python Tutorial 49: Building Your First Neural Network
-- Advanced's Python Tutorial 50: Generative Adversarial Networks (GANs) - An Overview
-- Advanced's Python Tutorial 51: Reinforcement Learning with Q-Learning
-- Advanced's Python Tutorial 52: Building a Chatbot with Python
-- Advanced's Python Tutorial 53: Cryptography in Python - Encrypting and Decrypting Data
-- Advanced's Python Tutorial 54: Network Programming with Python - Creating a Chat Application
-- Advanced's Python Tutorial 55: Building a Blockchain in Python
-- Advanced's Python Tutorial 56: Microservices with Python - An Introduction
-- Advanced's Python Tutorial 57: Deploying Python Applications with Docker
-- Advanced's Python Tutorial 58: Introduction to Cloud Computing with Python
-- Advanced's Python Tutorial 59: Using Python with AWS Services
-- Advanced's Python Tutorial 60: Scaling Python Applications with Kubernetes
-- Advanced's Python Tutorial 61: Performance Optimization Techniques in Python
-- Advanced's Python Tutorial 62: Simulate the Powerball Lottery Using Python
+- Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions
+- Python Tutorial: Decorators With Arguments
+- Python Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt
+- Python Tutorial: Calling External Commands Using the Subprocess Module
 
 [Back to top](#contents)
 
 ### Python OOP Tutorials
 
-- Python OOP Tutorial 0: Introduction to Object-Oriented Programming
 - Python OOP Tutorial 1: Classes and Instances
-- Python OOP Tutorial 2: Class Attributes and Methods
-- Python OOP Tutorial 3: Inheritance - Extending Classes
-- Python OOP Tutorial 4: Polymorphism and Duck Typing
-- Python OOP Tutorial 5: Magic/Dunder Methods
+- Python OOP Tutorial 2: Class Variables
+- Python OOP Tutorial 3: classmethods and staticmethods
+- Python OOP Tutorial 4: Inheritance - Creating Subclasses
+- Python OOP Tutorial 5: Special (Magic/Dunder) Methods
 - Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters
 
 [Back to top](#contents)
 
 ### Web Development with Flask and Django
 
-- Python Flask Tutorial 1: Full-Featured Web App Part 1 - Getting Started
-- Python Flask Tutorial 2: Database Integration with Flask-SQLAlchemy
-- Python Flask Tutorial 3: User Authentication with Flask-Login
-- Python Django Tutorial 1: Full-Featured Web App Part 1 - Getting Started
-- Python Django Tutorial 2: Advanced User Registration and Authentication
-- Python Django Tutorial 3: Building a Blog Application
-- Python Django Tutorial 4: Admin Customization
-- Python Django Tutorial 5: Adding a Commenting Feature
-- Python Django Tutorial 6: Creating RESTful APIs with Django Rest Framework
-- Python Django Tutorial 7: Testing Django Web Applications
-- Python Django Tutorial 8: Deploying Django to a Production Environment
-- Python Django Tutorial 9: Advanced Security Features in Django
-- Python Django Tutorial 10: Performance Optimization in Django Applications
-- Python Django Tutorial 11: Using WebSocket in Django for Real-Time Communication
-- Python Django Tutorial 12: Internationalization and Localization
-- Python Django Tutorial 13: Advanced Database Management in Django
-- Python Django Tutorial 14: Creating Custom Middleware in Django
-- Python Django Tutorial 15: Advanced Template Techniques
-- Python Django Tutorial 16: Building a Shopping Cart with Django
-- Python Django Tutorial 17: Deploying Your Application (Option #1) - Deploy using Docker
-- Python Django Tutorial 18: Deploying Your Application (Option #2) - Deploy using Heroku
+- Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started
+- Python Flask Tutorial: Full-Featured Web App Part 2 - Templates
+- Python Flask Tutorial: Full-Featured Web App Part 3 - Forms and User Input
+- Python Flask Tutorial: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy
+- Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure
+- Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication
+- Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture
+- Python Flask Tutorial: Full-Featured Web App Part 8 - Create, Update, and Delete Posts
+- Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination
+- Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset
+- Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration
+- Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages
+- Python Flask Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server
+- Python Flask Tutorial: How to Use a Custom Domain Name for Our Application
+- Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt
+- Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started
+- Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes
+- Python Django Tutorial: Full-Featured Web App Part 3 - Templates
+- Python Django Tutorial: Full-Featured Web App Part 4 - Admin 5 - Database and Migrations
+- Python Django Tutorial: Full- 7 - Login and Logout System
+- Python Django Tutorial: Full 9 - Update User Profile
+- Python 12 - Email and Password Reset
+- Python Django Tutorial: Full 13 - Using AWS S3 for File Uploads
+- Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server
+- Python Django Tutorial: How to Use a Custom Domain Name for Our Application
+- Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt
+- Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku
 
 [Back to top](#contents)
 
-### Data Science and Analysis
+### Interview Preparation
 
-- Python Data Science Tutorial 1: Introduction to Data Science with Python
-- Python Data Science Tutorial 2: Data Cleaning and Preparation with Pandas
-- Python Data Science Tutorial 3: Exploratory Data Analysis with Pandas
-- Python Data Science Tutorial 4: Data Visualization Basics with Matplotlib
-- Python Data Science Tutorial 5: Advanced Data Visualization with Seaborn
-- Python Data Science Tutorial 6: Statistical Analysis with SciPy
-- Python Data Science Tutorial 7: Machine Learning with scikit-learn
-- Python Data Science Tutorial 8: Natural Language Processing with spaCy
-- Python Data Science Tutorial 9: Deep Learning with Keras
-- Python Data Science Tutorial 10: Working with Big Data using PySpark
-- Python Pandas Tutorial 1: Getting Started with Data Analysis - Installation and Loading Data
-- Python Pandas Tutorial 2: Data Cleaning and Preprocessing
-- Python Pandas Tutorial 3: Exploring and Analyzing Data
-- Python Pandas Tutorial 4: Data Aggregation and Group Operations
-- Python Pandas Tutorial 5: Merging, Joining, and Concatenating
-- Python Pandas Tutorial 6: Working with Time Series Data
-- Python Pandas Tutorial 7: Visualization with Pandas and Matplotlib
-- Python Pandas Tutorial 8: Advanced Pandas Features and Techniques
-- Python Pandas Tutorial 9: Working with Text Data in Pandas
-- Python Pandas Tutorial 10: Handling Missing Data
-- Python Pandas Tutorial 11: Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc.
+- Preparing for a Python Interview: 10 Things You Should Know
+
+[Back to top](#contents)
+
+### Python Quick Tips
+
+- Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux)
+- Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows)
 
 [Back to top](#contents)
 
 ### Miscellaneous Tutorials
 
-- Python Tutorial: Creating a Simple Calculator
-- Python Tutorial: Building a Simple CLI To-Do List Application
-- Python Tutorial: Scraping Weather Data
-- Python Tutorial: Creating a Twitter Bot
-- Python Tutorial: Automating Excel Tasks with openpyxl
-- Python Tutorial: Working with PDFs in Python
-- Python Tutorial: Automating Web Browsing using Selenium
-- Python Tutorial: Email Automation with smtplib
-- Python Tutorial: Building a Simple Flask Blog
-- Python Tutorial: Creating a Discord Bot
-- Python Tutorial: Introduction to Git and GitHub for Python Developers
-- Python Tutorial: Using MongoDB with Python
-- Python Tutorial: Building a Portfolio Website with Flask
-- Python Tutorial: Introduction to Cybersecurity with Python
-- Python Tutorial: Automating System Administration Tasks with Python
-- Python Tutorial: Introduction to Data Engineering with Python
-- Python Tutorial: Building a Stock Price Notification System
-- Python Tutorial: Creating Interactive Dashboards with Plotly and Dash
-- Python Tutorial: Introduction to Quantum Computing with Qiskit
-- Python Tutorial: Game Development with Pygame
+- Python: Ex Machina Easter Egg - Hidden Message within the Code
+
+[Back to top](#contents)
+
+### Still to be categorized/planned
+
+*(These topics might fall into different categories upon further review/organization)*
+
+- Python Tutorial: Real World Example - Parsing Names From a CSV to an HTML List  *(Likely Intermediate)*
+- Python Tutorial: Automate Parsing and Renaming of Multiple Files *(Likely Intermediate)*
+
+This outline is a work in progress and is subject to change. More topics may be added or re-categorized as the series develops.
 
 [Back to top](#contents)
 
