@@ -49,17 +49,13 @@ Welcome to the Python Tutorial Series. Python is a versatile and powerful progra
 - Python Tutorial: Sets - Set Methods and Operations to Solve Common Problems
 - Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?
 - Python Coding Problem: Creating Your Own Iterators
-- Python Tutorial: Clarifying the Issues with Mutable Default Arguments
-- Python Tutorial: Pathlib - The Modern Way to Handle File Paths
 - 5 Common Python Mistakes and How to Fix Them
 
 [Back to top](#contents)
 
 ### Intermediate Tutorials
 
-- Setting up a Python Development Environment in Sublime Text
-- Setting up a Python Development Environment in Atom
-- Setting up a Python Development Environment in Eclipse
+- Setting up a Python Development Environment in VSCode
 - Python Tutorial Virtual Environments and Package Management
 - Python Tutorial: Anaconda - Installation and Using Conda
 - Python Tutorial: How I Manage Multiple Projects, Virtual Environments, and Environment Variables
